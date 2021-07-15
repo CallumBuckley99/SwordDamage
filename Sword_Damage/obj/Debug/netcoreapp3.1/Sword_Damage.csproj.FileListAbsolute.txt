@@ -1,0 +1,13 @@
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.csproj.AssemblyReference.cache
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.AssemblyInfoInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.AssemblyInfo.cs
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.csproj.CoreCompileInputs.cache
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\bin\Debug\netcoreapp3.1\Sword_Damage.exe
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\bin\Debug\netcoreapp3.1\Sword_Damage.deps.json
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\bin\Debug\netcoreapp3.1\Sword_Damage.runtimeconfig.json
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\bin\Debug\netcoreapp3.1\Sword_Damage.runtimeconfig.dev.json
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\bin\Debug\netcoreapp3.1\Sword_Damage.dll
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\bin\Debug\netcoreapp3.1\Sword_Damage.pdb
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.dll
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.pdb
+C:\Users\Client 6.2021 SSD\source\repos\Sword_Damage\obj\Debug\netcoreapp3.1\Sword_Damage.genruntimeconfig.cache
